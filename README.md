@@ -1,0 +1,1 @@
+This project is a simple Password Generator built using Python. It generates strong and secure passwords by randomly combining uppercase letters, lowercase letters, numbers, and special characters. The user can control the password length.
